@@ -99,6 +99,4 @@ This full-stack application setup is intended to accelerate the development proc
 
 ---
 
-If you find any bugs or have a feature request, please open an issue on [GitHub](https://github.com/gabrielkrapp/full-stack-template/issues).
-
-**Made with ❤️ by [Gabriel Krapp](https://github.com/gabrielkrapp)**.
+**Made with ❤️ by [Sabat](https://github.com/sabat-12067)**.
